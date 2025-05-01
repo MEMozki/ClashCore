@@ -1,6 +1,6 @@
 # Clash Core 6.253
 
-Core Clash of Clans for v6.253 in Java
+Working core of Clash Of Clans server on version v6.253 for java
 
 ![Screenshot](ScreenShot.jpeg) 
 
