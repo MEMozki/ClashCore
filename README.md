@@ -1,1 +1,1 @@
-# ClashCore-V6
+[image](ScreenShot.jpeg)
