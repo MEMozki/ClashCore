@@ -1,12 +1,6 @@
-# Clash Core 6.253
+# Clash Core
 
 ![Screenshot](ScreenShot.jpeg) 
-
-### Configuring the client app
-To connect to your server, a **patched client** is required. 
-Download this [base APK (MEGA)](https://mega.nz/file/UKdiGaTZ#yi-bNXX24-YEmpZgsAQcwlAZaaVo_1ef9xWeaezWehI) and change the IP in `libsb.config.so`, if you want to use ClashCore locally on your device, you can use "127.0.0.1" as the IP. If not, then you can use your device's IPv4 address. 
-
-#### The APK was recently updated to support Android 11+.
 
 ### Need help?
 Contact me via  
