@@ -1,6 +1,6 @@
 # Clash Core
 The core of the Clash of Clans server development is based on Java. Works from v1 to v17+ 
-![Screenshot](ScreenShot.jpeg) 
+![Screenshot](https://i.imgur.com/CXqsMPg.png) 
 
 ### Need help?
 Contact me via  
