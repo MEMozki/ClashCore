@@ -1,4 +1,6 @@
-# Clash Core ![openJDK](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+# Clash Core
+![openJDK](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC83?style=for-the-badge&logo=android&logoColor=white) ![Apple]()
+___
 The core of the Clash of Clans server development is based on Java. Works from all versions!
 ![Screenshot](https://i.imgur.com/CXqsMPg.png) 
 
